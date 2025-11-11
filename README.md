@@ -83,11 +83,11 @@ Together, they turn ComfyUI into a **context-aware compositing environment** —
 
 | Rough Composite | AI Composite |
 |------------------|--------------|
-| ![Before](Qwen-AI-Compositing/Park4runner/QwenCompositeRaw_00002_.png) | ![After](Qwen-AI-Compositing/Park4runner/Qwen-IE-2509_Inpaint_00009_.png) |
-| ![Before](Qwen-AI-Compositing/DummasBeach/QwenCompositeRaw_00001_.png) | ![After](Qwen-AI-Compositing/DummasBeach/QwenComposite_00001_.png) |
-| ![Before](Qwen-AI-Compositing/Forest/QwenCompositeRaw_00001_.png) | ![After](Qwen-AI-Compositing/Forest/Qwen-IE-2509_Inpaint_00021_.png) |
-| ![Before](Qwen-AI-Compositing/Mars2/QwenCompositeRaw_00001_.png) | ![After](Qwen-AI-Compositing/Mars2/Qwen-IE-2509_Inpaint_00009_.png) |
-| ![Before](Qwen-AI-Compositing/Moon/QwenCompositeRaw_00002_.png) | ![After](Qwen-AI-Compositing/Moon/Qwen-IE-2509_Inpaint_00009_.png) |
+| ![Before](Output_Images/Park4runner/QwenCompositeRaw_00002_.png) | ![After](Output_Images/Park4runner/Qwen-IE-2509_Inpaint_00009_.png) |
+| ![Before](Output_Images/DummasBeach/QwenCompositeRaw_00001_.png) | ![After](Output_Images/DummasBeach/QwenComposite_00001_.png) |
+| ![Before](Output_Images/Forest/QwenCompositeRaw_00001_.png) | ![After](Output_Images/Forest/Qwen-IE-2509_Inpaint_00021_.png) |
+| ![Before](Output_Images/Mars2/QwenCompositeRaw_00001_.png) | ![After](Output_Images/Mars2/Qwen-IE-2509_Inpaint_00009_.png) |
+| ![Before](Output_Images/Moon/QwenCompositeRaw_00002_.png) | ![After](Output_Images/Moon/Qwen-IE-2509_Inpaint_00009_.png) |
 
 ---
 
